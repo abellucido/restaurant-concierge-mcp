@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Ember & Ash",
+    "cuisine": "Wood-fired steakhouse",
+    "city": "Los Angeles",
+    "neighborhood": "Arts District",
+    "price_range": "$$$$",
+    "rating": 4.7,
+    "vibes": ["moody", "industrial"],
+    "description": "Low light, brick walls and an open fire.",
+    "signature_dishes": ["Dry-aged ribeye", "Charred carrots"],
+    "reviews": [
+      {"reviewer": "Ana P.", "rating": 5.0, "text": "Best steak in town."},
+      {"reviewer": "Ben K.", "rating": 4.0, "text": "Great, but pricey."}
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Velvet Hour",
+    "cuisine": "Speakeasy small plates",
+    "city": "Los Angeles",
+    "neighborhood": "West Hollywood",
+    "price_range": "$$$",
+    "rating": 4.1,
+    "vibes": ["intimate", "retro"],
+    "description": "A moody hidden bar behind a florist's door.",
+    "signature_dishes": ["Duck sliders", "Smoked old fashioned"],
+    "reviews": [
+      {"reviewer": "Cara L.", "rating": 4.5, "text": "Fun hidden entrance."},
+      {"reviewer": "Dev S.", "rating": 3.5, "text": "Cocktails good, food small."}
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Quiet Pine",
+    "cuisine": "Japanese omakase",
+    "city": "San Diego",
+    "neighborhood": "La Jolla",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "vibes": ["zen", "minimalist"],
+    "description": "Twelve seats facing a cedar counter.",
+    "signature_dishes": ["Seasonal nigiri", "Miso black cod"],
+    "reviews": [
+      {"reviewer": "Eli M.", "rating": 5.0, "text": "Serene and precise."},
+      {"reviewer": "Fay T.", "rating": 4.5, "text": "Worth the splurge."}
+    ]
+  }
+]

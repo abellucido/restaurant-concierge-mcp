@@ -1,0 +1,10 @@
+fastmcp>=4.1
+gradio>=6.0
+langchain-core>=1.0
+langchain-ollama>=1.0
+ollama>=0.4
+pydantic>=2.0
+python-dotenv>=1.0
+
+# Development
+pytest>=8.0
