@@ -59,6 +59,10 @@ def search_restaurants(
 ) -> dict:
     """Search restaurants by any combination of filters.
 
+    Results are sorted by rating (best first), so to find the best-rated
+    restaurant just search without min_rating and take the first result.
+    Only set filters the user actually asked for.
+
     Args:
         cuisine: Cuisine keyword, e.g. "italian", "sushi", "vegan".
         city: City or neighborhood, e.g. "San Francisco", "Little Tokyo".
@@ -67,8 +71,9 @@ def search_restaurants(
         min_rating: Lowest acceptable rating, from 1 to 5.
         limit: Maximum number of results (default 5).
     """
+    restaurants = load_restaurants()
     matches = []
-    for r in load_restaurants():
+    for r in restaurants:
         if cuisine and cuisine.lower() not in r["cuisine"].lower():
             continue
         if city and city.lower() not in f"{r['city']} {r['neighborhood']}".lower():
@@ -82,6 +87,15 @@ def search_restaurants(
         if min_rating and r["rating"] < min_rating:
             continue
         matches.append(r)
+
+    if not matches:
+        # Give the model what it needs to retry with a better query
+        return {
+            "count": 0,
+            "results": [],
+            "hint": "No matches. Retry with fewer filters, or use one of the available cities.",
+            "available_cities": sorted({r["city"] for r in restaurants}),
+        }
 
     matches.sort(key=lambda r: r["rating"], reverse=True)
     return {

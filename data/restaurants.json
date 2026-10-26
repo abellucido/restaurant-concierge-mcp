@@ -1,0 +1,1358 @@
+[
+  {
+    "id": 1,
+    "name": "Bones & Ashes",
+    "cuisine": "Wood-fired steakhouse",
+    "city": "Los Angeles",
+    "neighborhood": "Arts District",
+    "price_range": "$$$$",
+    "rating": 4.7,
+    "vibes": [
+      "moody",
+      "dramatic",
+      "charcoal-smoked"
+    ],
+    "description": "Bones & Ashes is a dark and dramatic wood-fired steakhouse that offers a smoking-hot dining experience. The restaurant is known for its intense ambiance and premium cuts of meat.",
+    "signature_dishes": [
+      "Smoked Tomahawk Ribeye",
+      "Charcoal-Grilled Brisket"
+    ],
+    "reviews": [
+      {
+        "reviewer": "John D.",
+        "rating": 5.0,
+        "text": "Bones & Ashes is a true gem. The steak is cooked to perfection and the atmosphere is moody and exciting. Highly recommend the Tomahawk Ribeye. The only downside is the steep price for a single meal."
+      },
+      {
+        "reviewer": "Emily W.",
+        "rating": 4.5,
+        "text": "The ambiance is on point, but I was a bit disappointed with the portion sizes. Still, it's worth it for the overall experience and the quality of the meat. A must-try for steak lovers."
+      },
+      {
+        "reviewer": "Ryan K.",
+        "rating": 4.0,
+        "text": "The place is dark and mysterious, just like I wanted. The steak was good, but I found the smoking process to be a bit too intense. It overpowered the natural flavors of the meat a bit."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ZenKaiseki",
+    "cuisine": "Japanese omakase",
+    "city": "Los Angeles",
+    "neighborhood": "Little Tokyo",
+    "price_range": "$$$$",
+    "rating": 3.8,
+    "vibes": [
+      "zen",
+      "calm",
+      "elegant",
+      "serene"
+    ],
+    "description": "ZenKaiseki is an exquisite omakase restaurant located in the heart of Little Tokyo. The restaurant offers a tranquil atmosphere that perfectly complements its meticulously crafted menu of seasonal Japanese delicacies.",
+    "signature_dishes": [
+      "Sukiyaki Tuna Sashimi",
+      "Kaiseki Vinegared Rice",
+      "Wagyu Beef Tataki"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah Johnson",
+        "rating": 4.0,
+        "text": "A true culinary experience! The omakase menu was a harmonious blend of flavors and textures. The service was impeccable, and the ambiance was so tranquil, I felt like I was meditating while eating. Highly recommend!"
+      },
+      {
+        "reviewer": "Alex Thompson",
+        "rating": 4.0,
+        "text": "Absolutely fantastic! The omakase menu was well thought out and each dish was beautifully presented. The only downside is that the menu is quite expensive, but for the quality of the food, it's worth it. Don't miss the Wagyu Beef Tataki."
+      },
+      {
+        "reviewer": "Liam Davis",
+        "rating": 3.5,
+        "text": "The food was amazing, but the service was a bit too formal for my taste. The waitstaff seemed a bit too focused on the atmosphere, which made me feel a bit like I was in a museum rather than a restaurant. Still, it was a pleasant experience overall."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Maru Ssamhouse",
+    "cuisine": "Korean barbecue",
+    "city": "Los Angeles",
+    "neighborhood": "Koreatown",
+    "price_range": "$$",
+    "rating": 4.8,
+    "vibes": [
+      "lively",
+      "delicious",
+      "crowded"
+    ],
+    "description": "Maru Ssamhouse is a vibrant Korean barbecue joint in the heart of Koreatown, known for its succulent meats and lively atmosphere. The restaurant is popular among locals and tourists alike, offering a taste of Korea in a casual setting.",
+    "signature_dishes": [
+      "Galbi",
+      "Samgyeopsal",
+      "Kimchi"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Foodie Fanatic",
+        "rating": 5.0,
+        "text": "Absolutely love Maru Ssamhouse! The service is top-notch, and the food is cooked to perfection. The portions are generous, and the flavors are just right. A must-visit for any Korean barbecue lover!"
+      },
+      {
+        "reviewer": "Local Resident",
+        "rating": 4.0,
+        "text": "Great place for a casual night out. The meat is very fresh and the portions are good. However, the place can get quite crowded during peak hours, so be prepared to wait for a table."
+      },
+      {
+        "reviewer": "Food Critic",
+        "rating": 4.0,
+        "text": "Maru Ssamhouse has a lot of potential, but the atmosphere can be a bit overwhelming. The food is decent, but I wish the portions were a bit larger. Still, it's a solid choice for a Korean barbecue experience."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Root & Vineyard",
+    "cuisine": "Californian farm-to-table",
+    "city": "Los Angeles",
+    "neighborhood": "Silver Lake",
+    "price_range": "$$$",
+    "rating": 3.9,
+    "vibes": [
+      "bohemian",
+      "organic",
+      "handcrafted"
+    ],
+    "description": "Root & Vineyard is a cozy, bohemian farm-to-table restaurant in the heart of Silver Lake, California. Known for its fresh, local ingredients and artisanal dishes, the restaurant offers a unique dining experience.",
+    "signature_dishes": [
+      "Heirloom Tomato Bruschetta",
+      "Chickpea & Quinoa Salad",
+      "Hearty Vegetable Risotto"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Anna L.",
+        "rating": 4.0,
+        "text": "Root & Vineyard is a hidden gem! The flavors are vibrant and the presentation is stunning. The staff is incredibly friendly and knowledgeable. Highly recommend their vegetable risotto."
+      },
+      {
+        "reviewer": "Mike T.",
+        "rating": 3.5,
+        "text": "The restaurant has a really cool vibe, and the food is excellent. However, the portions can be a bit small, and the price might not be suitable for a family dinner. Still, it's worth a visit for a special occasion."
+      },
+      {
+        "reviewer": "Samantha B.",
+        "rating": 4.0,
+        "text": "I love the organic and locally sourced ingredients here. The atmosphere is very relaxed and perfect for a casual dinner with friends. The bruschetta is a must-try, but the prices could be a bit more affordable."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Colorful Oaxacan Cocina",
+    "cuisine": "Oaxacan",
+    "city": "Los Angeles",
+    "neighborhood": "Highland Park",
+    "price_range": "$$",
+    "rating": 3.9,
+    "vibes": [
+      "colorful",
+      "vibrant",
+      "exotic",
+      "tropical"
+    ],
+    "description": "Experience the vibrant flavors of Oaxaca in a colorful setting that blends traditional and contemporary Mexican cuisine. From the decor to the dishes, every element is designed to transport you to the heart of Oaxaca.",
+    "signature_dishes": [
+      "Pozole Rojo",
+      "Tlayudas",
+      "Chiles en Nogada"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Ana L.",
+        "rating": 3.5,
+        "text": "The pozole rojo at Colorful Oaxacan Cocina is a must-try! The flavors are rich and complex, and the bowl is beautifully garnished. The only downside is that the tlayudas are a bit too heavy, but that's a minor quibble in an otherwise perfect meal."
+      },
+      {
+        "reviewer": "Carlos M.",
+        "rating": 3.0,
+        "text": "From the moment you walk in, you're surrounded by colorful artwork and lively music. The chiles en nogada are a standout, with the perfect balance of sweet and spicy. I wish there was a wider selection of vegetarian options, but it's still a memorable experience."
+      },
+      {
+        "reviewer": "Lina R.",
+        "rating": 3.0,
+        "text": "The ambiance is truly one of a kind, but the service could be more attentive. Despite that, the tlayudas are amazing, and the pozole is a real crowd-pleaser. Highly recommend for a special occasion or a night out with friends."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "SoleilBowl",
+    "cuisine": "Vegan bowls",
+    "city": "Los Angeles",
+    "neighborhood": "Venice",
+    "price_range": "$",
+    "rating": 4.4,
+    "vibes": [
+      "sun-drenched",
+      "relaxed",
+      "fresh",
+      "organic"
+    ],
+    "description": "SoleilBowl offers a vibrant array of vegan bowls in a sun-drenched atmosphere, perfect for a relaxing meal in Venice. The menu is filled with fresh, organic ingredients and creative flavor combinations.",
+    "signature_dishes": [
+      "Avocado & Jalapeño Bowl",
+      "Quinoa & Chickpea Bowl",
+      "Tropical Mango & Peanut Bowl"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah H.",
+        "rating": 5.0,
+        "text": "Absolutely love SoleilBowl! The flavors are so fresh and the portions are generous. Highly recommend the Avocado & Jalapeño Bowl. The only thing I wish was different is that the place gets a bit too crowded during lunch hours, making it hard to find a quiet spot."
+      },
+      {
+        "reviewer": "Mike T.",
+        "rating": 4.5,
+        "text": "Best vegan bowls in Venice, hands down. The atmosphere is so inviting, especially under the sun. The Quinoa & Chickpea Bowl is a standout, but I was a bit disappointed with the price compared to other options in the area."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 4.5,
+        "text": "Tried SoleilBowl for the first time and was pleasantly surprised. The Tropical Mango & Peanut Bowl was delicious, but I found the service to be a bit too casual and the wait time a bit too long. Still, a solid choice for a veggie-friendly meal in the neighborhood."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "DimSum Delirium",
+    "cuisine": "Cantonese dim sum",
+    "city": "Los Angeles",
+    "neighborhood": "Chinatown",
+    "price_range": "$$",
+    "rating": 4.6,
+    "vibes": [
+      "bustling",
+      "colorful",
+      "scented",
+      "exciting"
+    ],
+    "description": "DimSum Delirium is a vibrant and bustling Cantonese dim sum restaurant in the heart of Los Angeles' Chinatown. Known for its aromatic dumplings and steamed buns, the restaurant offers a colorful and engaging dining experience.",
+    "signature_dishes": [
+      "Har Gow (Shrimp Dumplings)",
+      "Char Siu Bao (Barbecue Pork Buns)",
+      "Siu Mai (Pork and Shrimp Dumplings)"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Foodie Fanatic",
+        "rating": 5.0,
+        "text": "The steamed dumplings here are beyond delicious! The variety of flavors and fillings is simply amazing. Highly recommend for a weekend brunch."
+      },
+      {
+        "reviewer": "Dining Detective",
+        "rating": 4.5,
+        "text": "While the food is undoubtedly excellent, the service can be a bit rushed at times. It's worth the quick visit, but be prepared for a fast-paced experience."
+      },
+      {
+        "reviewer": "Dim Sum Enthusiast",
+        "rating": 4.0,
+        "text": "The ambiance is lively and exciting, but the portion sizes feel a bit on the small side. The flavors are still fantastic, so it's a great spot for a casual lunch."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "VinoVerde",
+    "cuisine": "Northern Italian",
+    "city": "Los Angeles",
+    "neighborhood": "Downtown",
+    "price_range": "$$$",
+    "rating": 4.0,
+    "vibes": [
+      "romantic",
+      "intimate",
+      "elegant",
+      "whimsical"
+    ],
+    "description": "VinoVerde is a charming Northern Italian restaurant nestled in the heart of Downtown Los Angeles. With its intimate ambiance and exquisite menu, it's the perfect place for a romantic dinner or a special celebration.",
+    "signature_dishes": [
+      "Oven-Roasted Chicken with Truffle Butter",
+      "Pappardelle with Porcini Mushroom Sauce",
+      "Tiramisu Torte"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.0,
+        "text": "A truly magical experience! The ambiance is enchanting, and the food is nothing short of spectacular. The tiramisu torte was divine, a perfect end to the meal."
+      },
+      {
+        "reviewer": "Mark T.",
+        "rating": 3.0,
+        "text": "The food is fantastic, but the service could be a bit more attentive. Overall, a romantic and elegant setting, but I wish the sommelier was a bit more knowledgeable about wine pairings."
+      },
+      {
+        "reviewer": "Emma R.",
+        "rating": 3.5,
+        "text": "Absolutely charming! The menu offers a great variety of Northern Italian dishes, and the atmosphere is perfect for a romantic night out. Highly recommend the pappardelle, but I found the prices a bit steep for the area."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Salsipuedes Baja Bites",
+    "cuisine": "Baja seafood",
+    "city": "Santa Monica",
+    "neighborhood": "Main Street",
+    "price_range": "$",
+    "rating": 3.9,
+    "vibes": [
+      "sun-drenched",
+      "tropical",
+      "relaxed"
+    ],
+    "description": "Salsipuedes Baja Bites is a sun-drenched Baja seafood restaurant that offers a relaxed dining experience with a tropical twist. Enjoy fresh catches from the Pacific, served with a blend of traditional and modern Baja flavors.",
+    "signature_dishes": [
+      "Grilled Mahi Mahi Tacos",
+      "Shrimp Tostadas",
+      "Baja Fish Tacos"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah L.",
+        "rating": 4.5,
+        "text": "I love how the restaurant captures the essence of Baja with its fresh seafood and lively atmosphere. The Tostadas are to die for, but I wish there was a bit more of a chill vibe during dinner time."
+      },
+      {
+        "reviewer": "Mark T.",
+        "rating": 4.0,
+        "text": "The flavors are spot-on, and the service is top-notch. I highly recommend the Grilled Mahi Mahi Tacos, but the wait for a table can be a bit long during peak hours."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 3.0,
+        "text": "The food is delicious, but the decor could use a fresh touch. The Salsa Bar is a nice addition, but the tables are a bit cramped."
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Luminous Lumière",
+    "cuisine": "French bistro",
+    "city": "Pasadena",
+    "neighborhood": "Old Town",
+    "price_range": "$$$",
+    "rating": 4.2,
+    "vibes": [
+      "romantic",
+      "elegant",
+      "intimate",
+      "mellow"
+    ],
+    "description": "Luminous Lumière, a charming French bistro nestled in Old Town Pasadena, offers an intimate and romantic dining experience with a focus on exquisite bistro fare and a cozy ambiance.",
+    "signature_dishes": [
+      "Filet Mignon with Truffle Butter",
+      "Coq au Vin",
+      "Ratatouille with Herbed Polenta"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Jane D.",
+        "rating": 4.5,
+        "text": "Absolutely romantic! The ambiance was perfect, and the food was divine. The ratatouille was a standout, but the dessert menu is a bit limited. Still, it's worth every penny for a special night out."
+      },
+      {
+        "reviewer": "Michael L.",
+        "rating": 4.0,
+        "text": "The romantic setting is hard to beat, but the prices are a bit steep. The filet mignon was well worth the splurge, but the service could have been a bit more attentive."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 3.5,
+        "text": "The bistro is lovely, and the service is impeccable. The wine list is extensive, but the dessert menu leaves much to be desired. Overall, a great spot for a romantic dinner, but I wish there were more dessert options."
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Shadows of the Bayou",
+    "cuisine": "Cajun and Creole",
+    "city": "Long Beach",
+    "neighborhood": "Belmont Shore",
+    "price_range": "$$",
+    "rating": 4.3,
+    "vibes": [
+      "moody",
+      "sultry",
+      "mysterious",
+      "intimate"
+    ],
+    "description": "Nestled along the picturesque Belmont Shore, Shadows of the Bayou offers an intimate dining experience where the flavors of Cajun and Creole cuisine mingle with the sultry ambiance of the setting. The menu is a testament to the rich culinary heritage of the South, with dishes like gumbo and jambalaya served in a moody and intimate atmosphere.",
+    "signature_dishes": [
+      "Smoked Grouper Gumbo",
+      "Bayou Shrimp and Sausage Jambalaya",
+      "Cajun Fried Chicken"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah J.",
+        "rating": 4.0,
+        "text": "A magical experience! The food is outstanding, and the ambiance is perfect for a special occasion. The gumbo was rich and flavorful, and the jambalaya was a hit with my group. Highly recommend!"
+      },
+      {
+        "reviewer": "Mark T.",
+        "rating": 3.5,
+        "text": "The atmosphere was enchanting, but the service was a bit slow. The gumbo was excellent, but the portions felt a bit small. Still, it was worth the visit!"
+      },
+      {
+        "reviewer": "Lila W.",
+        "rating": 4.0,
+        "text": "It was a beautiful evening, but the pricing was a bit steep for the quantity of food. Still, the jambalaya was exceptional, and the ambiance was perfect for our group."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Pizza Piace",
+    "cuisine": "Neapolitan pizza",
+    "city": "San Diego",
+    "neighborhood": "Little Italy",
+    "price_range": "$$",
+    "rating": 4.2,
+    "vibes": [
+      "family-friendly",
+      "cozy",
+      "traditional",
+      "homemade"
+    ],
+    "description": "Located in the heart of Little Italy, Pizza Piace offers authentic Neapolitan pizzas in a warm and inviting atmosphere, perfect for families and food enthusiasts alike.",
+    "signature_dishes": [
+      "Margherita",
+      "Marinara",
+      "Capricciosa"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.5,
+        "text": "A delightful experience! The Margherita pizza is a must-try. The dough is perfectly chewy, and the sauce is rich and flavorful. Highly recommend for a family dinner."
+      },
+      {
+        "reviewer": "Alex K.",
+        "rating": 4.0,
+        "text": "Love the place, but the prices are a bit steep for the amount of pizza you get. Still, the homemade feel and the friendly staff make it worth the visit."
+      },
+      {
+        "reviewer": "Liam O.",
+        "rating": 4.0,
+        "text": "Great for a casual night out with the family. The marinara pizza is a standout, but some of the sides were a bit overpriced and not as fresh as expected."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Brewtopia",
+    "cuisine": "Craft brewery gastropub",
+    "city": "San Diego",
+    "neighborhood": "North Park",
+    "price_range": "$$",
+    "rating": 4.2,
+    "vibes": [
+      "lively",
+      "sociable",
+      "innovative",
+      "crafty"
+    ],
+    "description": "Brewtopia is a bustling gastropub that serves up creative small plates paired with an extensive selection of craft beers. The atmosphere is lively and perfect for casual gatherings or after-work drinks.",
+    "signature_dishes": [
+      "Craft Beer Cheeseburger",
+      "Smoked Bacon Waffles",
+      "Truffle Frites"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Tom",
+        "rating": 4.0,
+        "text": "Brewtopia is a hidden gem in North Park. The food is inventive and the beer selection is top-notch. Highly recommend trying the smoked bacon waffles, but be warned - they're messy!"
+      },
+      {
+        "reviewer": "Jane",
+        "rating": 4.0,
+        "text": "Great place for a night out. The ambiance is fantastic, and the staff is super friendly. However, the cheeseburger was a bit overpriced for the size."
+      },
+      {
+        "reviewer": "Mark",
+        "rating": 3.5,
+        "text": "Brewtopia is fun and lively, but it can get quite loud. The food is good, but I found the service a bit rushed during the peak hours."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Whispers of the Tide",
+    "cuisine": "Coastal seafood",
+    "city": "San Diego",
+    "neighborhood": "La Jolla",
+    "price_range": "$$$$",
+    "rating": 3.9,
+    "vibes": [
+      "romantic",
+      "intimate",
+      "seaside",
+      "luminous"
+    ],
+    "description": "Whispers of the Tide is a cozy coastal seafood restaurant nestled in the heart of La Jolla. The restaurant offers an intimate setting with soft ocean-inspired decor and candlelit tables, perfect for a romantic dinner. Enjoy fresh seafood dishes and a carefully curated wine list that complements the flavors of the sea.",
+    "signature_dishes": [
+      "Seared Scallops with Truffle Butter",
+      "Grilled Octopus with Lemon and Herbs",
+      "Seaside Risotto"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.0,
+        "text": "Absolutely stunning! The ambiance is so romantic and the food is out of this world. The seared scallops were cooked to perfection and the risotto was creamy and full of flavor. Highly recommend the dessert menu too."
+      },
+      {
+        "reviewer": "Tom H.",
+        "rating": 4.0,
+        "text": "The seafood is fresh, and the ambiance is lovely, making it a great date night spot. However, the prices are on the higher side, and the service could be a bit more attentive."
+      },
+      {
+        "reviewer": "Emily L.",
+        "rating": 4.0,
+        "text": "A bit overpriced for the quality of the food, but the romantic setting and beautiful views make it worth it. The octopus was fantastic, but I found the portion sizes to be quite small."
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Taqueria El Solitario",
+    "cuisine": "Mission-style taqueria",
+    "city": "San Francisco",
+    "neighborhood": "Mission District",
+    "price_range": "$",
+    "rating": 3.7,
+    "vibes": [
+      "casual",
+      "trendy",
+      "vibrant",
+      "artisanal"
+    ],
+    "description": "Taqueria El Solitario is a vibrant, casual Mission-style taqueria known for its artisanal and flavorful tacos. The menu features traditional favorites with a modern twist, using fresh, locally-sourced ingredients.",
+    "signature_dishes": [
+      "Carnitas al Pastor",
+      "Birria de Cabra",
+      "Chilaquiles Verdes"
+    ],
+    "reviews": [
+      {
+        "reviewer": "FoodieFanatic",
+        "rating": 4.0,
+        "text": "El Solitario is a hidden gem in the Mission. Their carnitas are melt-in-your-mouth delicious, and the birria is a must-try. Just be prepared for a long wait during peak hours!"
+      },
+      {
+        "reviewer": "TacoTerrorist",
+        "rating": 3.5,
+        "text": "The chilaquiles here are a real treat, but the service can be a bit slow sometimes. I'd love to see them speed things up a bit."
+      },
+      {
+        "reviewer": "BajaBuddy",
+        "rating": 4.0,
+        "text": "Absolutely love the vibe here! The tacos are top-notch, and the atmosphere is perfect for a casual night out with friends. The only downside is the price; it's on the higher side for casual dining."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Osteria Nostalgia",
+    "cuisine": "Old-school Italian",
+    "city": "San Francisco",
+    "neighborhood": "North Beach",
+    "price_range": "$$",
+    "rating": 4.9,
+    "vibes": [
+      "cozy",
+      "warm",
+      "homely",
+      "inviting"
+    ],
+    "description": "Step into Osteria Nostalgia, where the warmth of the brick walls and the soft glow of vintage chandeliers create an inviting atmosphere. This charming North Beach eatery serves up classic Italian dishes with a modern twist, perfect for those seeking a nostalgic dining experience.",
+    "signature_dishes": [
+      "Spaghetti Carbonara",
+      "Tiramisu",
+      "Osso Buco"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Lucy",
+        "rating": 5.0,
+        "text": "This place is a hidden gem! The pasta is always al dente, and the tiramisu is heavenly. Highly recommend trying the osso buco, it’s a game-changer. Only downside is the service can be a bit slow on weekends, but the food more than makes up for it."
+      },
+      {
+        "reviewer": "Tom",
+        "rating": 4.0,
+        "text": "Cozy and charming, Osteria Nostalgia is exactly what I needed after a long day. The ambiance is perfect for a date night or family gathering. Just wish the wine list was a bit more extensive. Still, the food is top-notch and worth every penny."
+      },
+      {
+        "reviewer": "Sophie",
+        "rating": 4.0,
+        "text": "The food is delicious, but the price is a bit steep for the portion sizes. It's definitely a spot you want to splurge on, but I wouldn’t recommend it as a regular dining spot unless you’re celebrating something special. Still, the atmosphere is unbeatable."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Taza Pao",
+    "cuisine": "Burmese",
+    "city": "San Francisco",
+    "neighborhood": "Richmond District",
+    "price_range": "$$",
+    "rating": 4.1,
+    "vibes": [
+      "cozy",
+      "coherent",
+      "homely"
+    ],
+    "description": "Experience the warmth of Taza Pao, a charming Burmese eatery nestled in the Richmond District. Savor the authenticity of Burmese cuisine in a cozy, homey atmosphere.",
+    "signature_dishes": [
+      "Nyi Pyei Mee",
+      "Thoke",
+      "Swe Swe Yaw"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Alex",
+        "rating": 4.0,
+        "text": "Taza Pao is a hidden gem in the Richmond District! The Burmese flavors are so vibrant and authentic. The owners are incredibly friendly and make sure you have everything you need. Highly recommend their Nyi Pyei Mee and Thoke. The only thing I wish they had more of was the space, but it’s such a cozy spot."
+      },
+      {
+        "reviewer": "Samantha",
+        "rating": 4.0,
+        "text": "Absolutely loved my experience at Taza Pao. The ambiance is super cozy and inviting. I tried their Swe Swe Yaw and it was delicious. The only slight criticism is that some dishes could benefit from being a bit spicier, but that’s a personal preference. Still, a must-try for any Burmese food lover!"
+      },
+      {
+        "reviewer": "David",
+        "rating": 4.0,
+        "text": "Visited Taza Pao with a group and everyone was impressed with the Burmese dishes. The portions are generous, and the flavors are robust. The only thing I felt could improve is the service. It felt a bit rushed towards the end of our visit, but the food more than made up for it. Highly recommend for a special occasion or casual night out."
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Kinilaw Kinetic",
+    "cuisine": "Modern Filipino",
+    "city": "San Francisco",
+    "neighborhood": "SoMa",
+    "price_range": "$$$",
+    "rating": 4.3,
+    "vibes": [
+      "trendy",
+      "innovative",
+      "dynamic",
+      "exotic"
+    ],
+    "description": "Kinilaw Kinetic is a cutting-edge Filipino eatery in the heart of SoMa, offering a fusion of traditional flavors with contemporary twists. The vibrant, open kitchen and sleek, modern decor make for a visually and gastronomically thrilling experience.",
+    "signature_dishes": [
+      "Tumblin' Tamarind Tacos",
+      "Kinilaw Kinetic",
+      "Pulutan Platter"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Foodie45",
+        "rating": 4.5,
+        "text": "The Tumblin' Tamarind Tacos are a must-try! The balance of sweet, sour, and spicy is spot-on, but the price is a bit steep for such a small portion."
+      },
+      {
+        "reviewer": "SassyGourmet",
+        "rating": 4.5,
+        "text": "This place is a true gem. The Kinilaw Kinetic is fresh and beautifully presented. The Pulutan Platter is a feast for the senses and the palate, but I wish they had more vegan options."
+      },
+      {
+        "reviewer": "ChefPat",
+        "rating": 4.0,
+        "text": "The concept is fantastic, but the service can be hit or miss. On a good day, the staff is knowledgeable and accommodating, but on others, it feels like they're just going through the motions. Definitely a place to watch and support, though."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "RamenRokku",
+    "cuisine": "Ramen",
+    "city": "San Francisco",
+    "neighborhood": "Japantown",
+    "price_range": "$",
+    "rating": 3.8,
+    "vibes": [
+      "casual",
+      "cozy",
+      "quirky",
+      "friendly"
+    ],
+    "description": "RamenRokku is a cozy, casual ramen joint in Japantown, offering a menu of handcrafted bowls with a modern twist. From classic tonkotsu to innovative vegan options, the flavors are bold and the atmosphere is inviting.",
+    "signature_dishes": [
+      "Signature Tonkotsu Ramen",
+      "Vegetarian Miso Ramen",
+      "Spicy Chicken Ramen"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Samantha",
+        "rating": 4.0,
+        "text": "The RamenRokku experience is beyond amazing! The bowls are packed with flavor, and the portions are generous. Highly recommend the spicy chicken ramen, but be prepared to sweat a little. The service is attentive, and the vibe is cozy and casual."
+      },
+      {
+        "reviewer": "Ethan",
+        "rating": 3.5,
+        "text": "I visited RamenRokku during a casual evening and was pleasantly surprised. The tonkotsu ramen was delicious, but the wait for it was a bit too long. The vegetarian options are a great addition, but the menu could use a bit more variety. Still, a solid ramen spot with a quirky twist."
+      },
+      {
+        "reviewer": "Julia",
+        "rating": 3.0,
+        "text": "The atmosphere at RamenRokku is really unique and fun. I love the casual vibe, but the prices feel a bit high for the area. The tonkotsu ramen was good, but nothing that blew me away. Still, it's a nice spot for a casual night out."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Ethiopian Haven",
+    "cuisine": "Ethiopian",
+    "city": "Oakland",
+    "neighborhood": "Temescal",
+    "price_range": "$$",
+    "rating": 4.5,
+    "vibes": [
+      "family-friendly",
+      "cozy",
+      "traditional"
+    ],
+    "description": "Ethiopian Haven offers a warm and inviting atmosphere, perfect for family gatherings. The menu features traditional dishes like injera and doro wat, providing a unique dining experience.",
+    "signature_dishes": [
+      "Injera",
+      "Doro Wat",
+      "Kitfo"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.5,
+        "text": "Absolutely delicious! The injera and doro wat were exceptional. My kids loved the kid-friendly options too. Highly recommend for a family meal!"
+      },
+      {
+        "reviewer": "Mark T.",
+        "rating": 4.5,
+        "text": "Great place for a special occasion. The food is fantastic, but the wait for a table can be long. Still, it's worth the wait."
+      },
+      {
+        "reviewer": "Lena L.",
+        "rating": 4.5,
+        "text": "The portions are generous, but the prices feel a bit steep for the quality. Still, the atmosphere and food are worth it for a special night out."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Soulful Uptown Eats",
+    "cuisine": "Southern soul food",
+    "city": "Oakland",
+    "neighborhood": "Uptown",
+    "price_range": "$$",
+    "rating": 4.8,
+    "vibes": [
+      "lively",
+      "downhome",
+      "soulful",
+      "flavorful"
+    ],
+    "description": "Soulful Uptown Eats is a vibrant Southern soul food restaurant in the heart of Oakland's Uptown district. The menu features hearty and comforting dishes with a twist, served in a warm and inviting atmosphere that feels like a second home. Perfect for those looking to savor the flavors of the South in a lively setting.",
+    "signature_dishes": [
+      "Hearty Gumbo",
+      "Smoked Pulled Pork Sandwich",
+      "Heavenly Collard Greens"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Foodie Fanatic",
+        "rating": 5.0,
+        "text": "Absolutely loved the gumbo! The flavors were so rich and full-bodied, it was like a taste of home. Highly recommend trying the smoked pulled pork sandwich, too. Just wish the portions were a bit bigger."
+      },
+      {
+        "reviewer": "Soulful Eater",
+        "rating": 5.0,
+        "text": "The collard greens were cooked to perfection, and the pulled pork sandwich was a standout. The atmosphere was lively and the service was great. Just a bit pricey for my taste, but definitely worth the splurge."
+      },
+      {
+        "reviewer": "Oakland Local",
+        "rating": 5.0,
+        "text": "Great place for a casual lunch. The fried catfish was crispy and the sides were tasty. The environment was lively and the staff were friendly, but the prices could be a bit steep for everyday dining."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "ZenSage",
+    "cuisine": "Vegetarian tasting menu",
+    "city": "Berkeley",
+    "neighborhood": "Gourmet Ghetto",
+    "price_range": "$$$$",
+    "rating": 3.8,
+    "vibes": [
+      "zen",
+      "calm",
+      "serene",
+      "inviting"
+    ],
+    "description": "Experience a harmonious blend of flavors and tranquility at ZenSage, where each dish is crafted to enhance your senses in a tranquil setting.",
+    "signature_dishes": [
+      "Seasonal Mushroom Platter",
+      "Quinoa Crusted Artichoke",
+      "Apple Cider Vinegar Sorbet"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Alex",
+        "rating": 4.0,
+        "text": "The dishes here are a true masterpiece. Each one is a work of art, both in taste and presentation. The ambiance is perfect for a quiet evening, making it a great spot for a date or a solo dinner."
+      },
+      {
+        "reviewer": "Ella",
+        "rating": 4.0,
+        "text": "Absolutely loved the menu. Each dish was a delightful surprise, and the flavors were so well balanced. The only slight downside is the service can be a bit slow, which might be due to the high demand. But the food more than makes up for it!"
+      },
+      {
+        "reviewer": "Sam",
+        "rating": 3.5,
+        "text": "A bit pricey for what you get, but the experience is worth it. The staff is friendly, and the dishes are beautifully presented. However, some of the tasting plates were a bit too small for a full meal."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Pho Fusion",
+    "cuisine": "Vietnamese pho",
+    "city": "San Jose",
+    "neighborhood": "Japantown",
+    "price_range": "$",
+    "rating": 4.8,
+    "vibes": [
+      "casual",
+      "cozy",
+      "authentic",
+      "modern"
+    ],
+    "description": "Pho Fusion offers a delightful blend of traditional Vietnamese pho with modern twists, making it a casual yet authentic dining experience.",
+    "signature_dishes": [
+      "Beef Pho",
+      "Chicken Pho",
+      "Pho with Mushroom and Tofu"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Chef Li",
+        "rating": 5.0,
+        "text": "Absolutely love the Pho Fusion! The broth is so flavorful, and the balance of spices is just right. A must-try for any Pho lover."
+      },
+      {
+        "reviewer": "Sam",
+        "rating": 4.0,
+        "text": "The atmosphere is cozy and the service is friendly, but I wish they had a bit more variety in their vegetarian options. Still, the Pho is amazing."
+      },
+      {
+        "reviewer": "Linda",
+        "rating": 4.0,
+        "text": "Great place to grab a quick bite during lunch. The Pho is consistently delicious, but the price can be a bit steep for the portion size."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Root & Rustic Roots",
+    "cuisine": "Farm-to-fork New American",
+    "city": "Sacramento",
+    "neighborhood": "Midtown",
+    "price_range": "$$$",
+    "rating": 4.8,
+    "vibes": [
+      "rustic",
+      "organic",
+      "local",
+      "hearth"
+    ],
+    "description": "Root & Rustic Roots offers a farm-to-fork experience in a rustic yet warm setting, featuring locally sourced ingredients and creative New American dishes.",
+    "signature_dishes": [
+      "Seasonal Vegetable Paella",
+      "Heirloom Tomato Tart",
+      "Herb-Cured Pork Loin"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 5.0,
+        "text": "This place is a gem! The food is absolutely delicious, and the atmosphere is so charming. I love that they use local ingredients, and the portions are generous. Highly recommend the herb-cured pork loin."
+      },
+      {
+        "reviewer": "John D.",
+        "rating": 4.0,
+        "text": "The food is amazing, but I wish the service was a bit faster. The vegetable paella is to die for, but the tart was a bit too tart for my taste. Overall, it's a fantastic restaurant with a cozy vibe."
+      },
+      {
+        "reviewer": "Emily L.",
+        "rating": 5.0,
+        "text": "Root & Rustic Roots is a delightful spot. The local flavors are so fresh, and the dishes are beautifully presented. The tart was a bit too tart for me, but it’s a minor quibble. Great for a special dinner."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Echeverria's Embrace",
+    "cuisine": "Wine-country Californian",
+    "city": "Napa",
+    "neighborhood": "Downtown Napa",
+    "price_range": "$$$$",
+    "rating": 4.5,
+    "vibes": [
+      "romantic",
+      "elegant",
+      "cozy",
+      "luxe"
+    ],
+    "description": "Nestled in the heart of Downtown Napa, Echeverria's Embrace offers a sophisticated yet warm ambiance, perfect for a romantic evening. The menu showcases the best of wine-country Californian cuisine, with a focus on fresh, local ingredients and creative pairings with the region's renowned wines. Enjoy intimate candlelit tables, soft ambient lighting, and a curated wine list that complements the meals.",
+    "signature_dishes": [
+      "Truffle Butter Lobster Tail",
+      "Herb-Crusted Rack of Lamb",
+      "Zinfandel Braised Short Ribs"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah L.",
+        "rating": 5.0,
+        "text": "The ambiance at Echeverria's Embrace is simply enchanting, making it the perfect spot for a romantic dinner. The dishes are beautifully crafted, and the wine pairings were spot-on. A true culinary experience!"
+      },
+      {
+        "reviewer": "Mike T.",
+        "rating": 4.0,
+        "text": "I was a bit disappointed with the service, which felt a bit rushed and less attentive than I had hoped. The food was still delicious, but the overall experience could have been better."
+      },
+      {
+        "reviewer": "Emily S.",
+        "rating": 5.0,
+        "text": "Absolutely loved the romantic setting and the food. The truffle butter lobster was out of this world! The only downside was that it was a bit pricey for the quantity, but the quality was certainly there."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "CoveMediterraneo",
+    "cuisine": "Mediterranean small plates",
+    "city": "Healdsburg",
+    "neighborhood": "The Plaza",
+    "price_range": "$$$",
+    "rating": 4.1,
+    "vibes": [
+      "rustic",
+      "wooden",
+      "charcoal",
+      "exposed"
+    ],
+    "description": "CoveMediterraneo offers a delightful array of small plates inspired by the sun-soaked shores of the Mediterranean, all set in a rustic and charming environment that transports diners to a bygone era. The menu features an array of flavors from Greece, Italy, and beyond, with each dish designed to be savored and shared.",
+    "signature_dishes": [
+      "Olive Oil Braised Octopus",
+      "Grilled Lemon Herb Chicken Skewers",
+      "Fennel and Grapefruit Salad"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.5,
+        "text": "The flavors are divine, and the portions are generous! The octopus is tender and flavorful, and the lemon herbs on the chicken skewers are a perfect zingy complement. Highly recommend!"
+      },
+      {
+        "reviewer": "David L.",
+        "rating": 3.5,
+        "text": "An unforgettable experience, but be prepared for the high prices. The fennel and grapefruit salad is a bit too sweet for my taste, but it's the perfect balance for the rich olive oil and herbs."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 4.5,
+        "text": "Absolutely loved the rustic vibe, but the service could use a bit more attentiveness. Still, the grilled octopus was outstanding, and the atmosphere makes up for any minor service hiccups."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Sakura Zen",
+    "cuisine": "Japanese kaiseki",
+    "city": "Carmel-by-the-Sea",
+    "neighborhood": "Ocean Avenue",
+    "price_range": "$$$$",
+    "rating": 4.6,
+    "vibes": [
+      "zen",
+      "serene",
+      "elegant",
+      "sophisticated"
+    ],
+    "description": "Sakura Zen is a serene and elegant restaurant that offers a truly immersive Japanese kaiseki dining experience. The menu is carefully crafted with a focus on fresh, local ingredients and traditional flavors. The ambiance is peaceful, with minimalist decor and a soft, natural lighting that enhances the tranquil vibe.",
+    "signature_dishes": [
+      "Sakura Sashimi Platter",
+      "Seasonal Kaiseki Course",
+      "Matcha Mousse"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.5,
+        "text": "A beautiful and serene dining experience. The kaiseki course was exquisite, with each dish beautifully presented and thoughtfully paired with sake. The only downside is that it can get quite pricey."
+      },
+      {
+        "reviewer": "James L.",
+        "rating": 4.0,
+        "text": "I've visited Sakura Zen a few times and it never disappoints. The kaiseki menu changes with the seasons, which keeps things interesting. The service is top-notch, but the portion sizes are small, which could be a bit of a drawback for those who are looking for more substantial meals."
+      },
+      {
+        "reviewer": "Lisa K.",
+        "rating": 4.0,
+        "text": "The ambiance is fantastic, but the food could be more innovative. I was expecting a bit more creativity in the kaiseki dishes, which felt a bit repetitive. Still, it's a lovely spot for a special occasion."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "CoveBrew",
+    "cuisine": "Seafood chowder house",
+    "city": "Monterey",
+    "neighborhood": "Cannery Row",
+    "price_range": "$$",
+    "rating": 4.4,
+    "vibes": [
+      "casual",
+      "cozy",
+      "nautical",
+      "friendly"
+    ],
+    "description": "CoveBrew is a casual seafood chowder house nestled along the picturesque Cannery Row in Monterey. Known for its hearty bowls of fresh, locally sourced chowder, this cozy eatery offers a warm and welcoming atmosphere. Perfect for a casual lunch or dinner by the bay.",
+    "signature_dishes": [
+      "Cannery Row Clam Chowder",
+      "Seafood Platter"
+    ],
+    "reviews": [
+      {
+        "reviewer": "John D.",
+        "rating": 4.5,
+        "text": "The chowder here is simply divine. It’s so creamy and packed with fresh seafood. The service is top-notch, and the overall vibe is incredibly relaxing. Highly recommend, especially for a light lunch by the bay."
+      },
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.0,
+        "text": "Great place for a quick bite, but the prices are a bit steep. The chowder is good, but not as creamy as I expected. Still, the atmosphere is charming and the portions are generous."
+      },
+      {
+        "reviewer": "David L.",
+        "rating": 5.0,
+        "text": "CoveBrew exceeded my expectations. The chowder was beyond delicious, and the service was impeccable. It’s a bit of a trek from the city center, but definitely worth it for a special treat. I’ll be back!"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "TapasTrove",
+    "cuisine": "Spanish tapas",
+    "city": "Santa Barbara",
+    "neighborhood": "Funk Zone",
+    "price_range": "$$$",
+    "rating": 3.7,
+    "vibes": [
+      "trendy",
+      "innovative",
+      "exotic",
+      "charming"
+    ],
+    "description": "Experience the vibrant flavors of Spain in the heart of Santa Barbara's Funk Zone. TapasTrove offers a unique blend of traditional and modern Spanish tapas, perfect for food enthusiasts looking for a memorable dining experience.",
+    "signature_dishes": [
+      "Seafood Paella",
+      "Iberian Jamón",
+      "Artichoke Bruschetta"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah S.",
+        "rating": 3.5,
+        "text": "The food at TapasTrove is truly exceptional! The Seafood Paella was bursting with flavor, and the Jamón was so tender and delicious. The only downside is that the portions are a bit small, but the quality makes up for it."
+      },
+      {
+        "reviewer": "Mike M.",
+        "rating": 3.0,
+        "text": "Absolutely love the atmosphere here! The decor is stunning, and the service is top-notch. The Artichoke Bruschetta is a standout dish, but I wish they had more vegetarian options on the menu."
+      },
+      {
+        "reviewer": "Emily E.",
+        "rating": 3.0,
+        "text": "A must-try for anyone visiting Santa Barbara. The TapasTrove is trendy and the food is beautifully presented. However, the prices can be steep for the portion sizes, and I found some dishes to be a bit overpriced for the taste."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Midcentury Mingle",
+    "cuisine": "Mid-century cocktail lounge",
+    "city": "Palm Springs",
+    "neighborhood": "Uptown Design District",
+    "price_range": "$$$",
+    "rating": 4.3,
+    "vibes": [
+      "retro",
+      "nostalgic",
+      "cozy"
+    ],
+    "description": "Step back in time to the golden era of cocktail culture at Midcentury Mingle. The decor mimics the sleek, modern designs of the 1950s and 60s, complete with polished wooden tables, plush velvet seating, and vintage barware. Enjoy handcrafted cocktails and small plates that pair perfectly with the ambiance.",
+    "signature_dishes": [
+      "Shake of the Century",
+      "Nostalgia Nachos"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Samantha S.",
+        "rating": 4.5,
+        "text": "A true gem! The drinks are amazing, and the vibe is perfect for a date night. The nachos are to die for, but the signature shake is a bit pricey for the portion size."
+      },
+      {
+        "reviewer": "Tom T.",
+        "rating": 4.0,
+        "text": "Absolutely loved the atmosphere and the cocktails! The place is so cozy and the lighting is just right. Only wish the nachos weren't so small for the price."
+      },
+      {
+        "reviewer": "Linda L.",
+        "rating": 4.0,
+        "text": "The decor is fantastic, and the drinks are excellent. It's a great spot for catching up with friends, but the service can be a bit slow at times."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "CapePoint Bistro",
+    "cuisine": "Cliffside Californian",
+    "city": "Big Sur",
+    "neighborhood": "Highway 1",
+    "price_range": "$$$",
+    "rating": 4.3,
+    "vibes": [
+      "rustic",
+      "panoramic",
+      "natural",
+      "solitary"
+    ],
+    "description": "CapePoint Bistro offers a unique dining experience with breathtaking ocean views and a rustic charm. The menu focuses on locally sourced ingredients, creating a fusion of traditional Californian flavors with a modern twist.",
+    "signature_dishes": [
+      "Oceanfront Grilled Salmon",
+      "Clifftop Charcuterie Board",
+      "Seaside Quinoa Salad"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sara H.",
+        "rating": 4.5,
+        "text": "The views from CapePoint Bistro are absolutely breathtaking, and the food is simply divine. The grilled salmon was cooked to perfection, and the quinoa salad was a delightful twist on a classic. Highly recommend for a special occasion!"
+      },
+      {
+        "reviewer": "Tom L.",
+        "rating": 4.0,
+        "text": "What a magical spot! The ambiance is truly one-of-a-kind, but I did find the prices to be a bit steep. Still, the experience is worth every penny. The charcuterie board was outstanding, but the service could be a bit more attentive."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 3.5,
+        "text": "I loved the rustic feel and the panoramic views, but I found the restaurant a bit too quiet for my liking. It's perfect for a solo meal or date night, but I think it might be too isolated for large groups. The salmon was amazing, though!"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Armenia's Hearth",
+    "cuisine": "Armenian",
+    "city": "Fresno",
+    "neighborhood": "Tower District",
+    "price_range": "$$",
+    "rating": 3.6,
+    "vibes": [
+      "family-friendly",
+      "warm",
+      "welcoming",
+      "authentic"
+    ],
+    "description": "Armenia's Hearth offers a warm and inviting atmosphere where families can enjoy authentic Armenian cuisine. The menu features traditional dishes like khorovats and dolma, complemented by a selection of Armenian wines and spirits.",
+    "signature_dishes": [
+      "Armenian Khorovats",
+      "Klavasar Salad",
+      "Shish Barak"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Samantha",
+        "rating": 3.5,
+        "text": "A delightful family outing! The khorovats and dolma were out of this world. The staff was very friendly and accommodating. Highly recommend!"
+      },
+      {
+        "reviewer": "David",
+        "rating": 3.0,
+        "text": "The atmosphere is great and the food is fantastic, but I wish they had more vegetarian options. Still, it's a must-visit for Armenian cuisine."
+      },
+      {
+        "reviewer": "Lena",
+        "rating": 3.0,
+        "text": "A cozy place with a perfect mix of traditional and modern Armenian dishes. Perfect for a casual family dinner or a night out with friends. The only downside is the limited parking."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Taiwanese Twirl",
+    "cuisine": "Taiwanese",
+    "city": "Irvine",
+    "neighborhood": "Diamond Jamboree",
+    "price_range": "$",
+    "rating": 3.7,
+    "vibes": [
+      "bustling",
+      "colorful",
+      "flavorful",
+      "welcoming"
+    ],
+    "description": "Experience the vibrant flavors of Taiwan in a bustling, colorful atmosphere. From hand-pulled noodles to refreshing tea cocktails, Taiwanese Twirl offers a unique dining experience.",
+    "signature_dishes": [
+      "Bamiao Beef Noodles",
+      "Stinky Tofu",
+      "Beef Tea"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Liam O.",
+        "rating": 4.0,
+        "text": "Absolutely loved the beef tea and stinky tofu! The place is a bit cramped, but the food more than makes up for it. Can't wait to come back for more!"
+      },
+      {
+        "reviewer": "Samantha R.",
+        "rating": 3.0,
+        "text": "The ambiance is fantastic, and the flavors are a real treat. However, I found the menu a bit overwhelming for a first-time visitor. A guide or a more detailed menu could help."
+      },
+      {
+        "reviewer": "Evan M.",
+        "rating": 3.0,
+        "text": "The service was great, but I found the portion sizes a bit small. Still, it was a fun and tasty meal with friends. Definitely worth a try!"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Zahra's Za'atar",
+    "cuisine": "Lebanese",
+    "city": "Anaheim",
+    "neighborhood": "Little Arabia",
+    "price_range": "$",
+    "rating": 4.3,
+    "vibes": [
+      "family-friendly",
+      "cozy",
+      "traditional",
+      "warm"
+    ],
+    "description": "Experience the rich flavors of Lebanon at Zahra's Za'atar, a family-owned restaurant that serves up traditional dishes in a warm and inviting atmosphere. Perfect for families and food lovers alike, Zahra's offers a delightful blend of authentic cuisine and modern comfort.",
+    "signature_dishes": [
+      "Grilled Chicken Shawarma",
+      "Mouammar Stuffed Bell Peppers",
+      "Falafel Platter"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah J.",
+        "rating": 4.5,
+        "text": "The shawarma at Zahra's is a must-try! The flavors are so rich and well-seasoned, and it's served with a side of delicious hummus. The atmosphere is cozy and the service is top-notch. Highly recommend!"
+      },
+      {
+        "reviewer": "Mike L.",
+        "rating": 4.5,
+        "text": "Love the atmosphere at Zahra's, but the prices are a bit steep. Still, the food is amazing, especially the stuffed grape leaves. Great for a special occasion or family gathering."
+      },
+      {
+        "reviewer": "Emily R.",
+        "rating": 4.0,
+        "text": "Had a great time here with my kids, but the service was a bit slow. The food was still delicious, but the wait times might be a factor for families with younger children."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Mountain Hearth Lodge",
+    "cuisine": "Mountain lodge grill",
+    "city": "Truckee",
+    "neighborhood": "Historic Downtown",
+    "price_range": "$$$",
+    "rating": 4.3,
+    "vibes": [
+      "cozy",
+      "woodsy",
+      "rustic"
+    ],
+    "description": "Experience the warmth of the mountains at Mountain Hearth Lodge, where hearty grilled dishes and hearty mountain vibes come together in a cozy, rustic setting.",
+    "signature_dishes": [
+      "Grilled Venison Medallions",
+      "Smoked Trout Platter",
+      "Wild Mushroom Risotto"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah M.",
+        "rating": 4.5,
+        "text": "What a delightful surprise! The grilled venison was the highlight of the meal. A bit pricey, but the ambiance and service make it worth it. I'll definitely be back for the smoked trout platter."
+      },
+      {
+        "reviewer": "Tom P.",
+        "rating": 4.0,
+        "text": "The atmosphere is perfect for a family gathering or a romantic evening. However, the prices seem a bit steep for the portions, and the service could use a bit more attentiveness."
+      },
+      {
+        "reviewer": "Lena R.",
+        "rating": 4.5,
+        "text": "A must-visit for anyone who loves grilled food with a mountain twist. The grilled elk was cooked to perfection, and the cozy vibe was just right for a chilly evening. Highly recommend!"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Mystic Morsels",
+    "cuisine": "Speakeasy small plates",
+    "city": "Los Angeles",
+    "neighborhood": "West Hollywood",
+    "price_range": "$$$",
+    "rating": 4.3,
+    "vibes": [
+      "moody",
+      "enigmatic",
+      "seductive"
+    ],
+    "description": "Experience the underground charm of Mystic Morsels, a hidden gem in West Hollywood. Our speakeasy-inspired menu offers a variety of small plates that are perfect for sharing, with a focus on innovative flavors and presentation. Enjoy the dimly lit space, where the ambiance is as captivating as the food.",
+    "signature_dishes": [
+      "Truffle Macaroni",
+      "Smoked Salmon Tartare",
+      "Chocolate Lava Cake"
+    ],
+    "reviews": [
+      {
+        "reviewer": "Sarah L.",
+        "rating": 4.5,
+        "text": "Mystic Morsels is the perfect spot for a romantic evening. The small plates are exquisite and shareable, and the atmosphere is absolutely enchanting. The only downside is that the menu is quite small, which limits the variety a bit."
+      },
+      {
+        "reviewer": "Mike T.",
+        "rating": 4.5,
+        "text": "I love the mystery of finding this place. The small plates are a delight, and the flavors are so unique. The service is impeccable, but the high prices might be a bit of a stretch for a casual night out."
+      },
+      {
+        "reviewer": "Lila R.",
+        "rating": 4.5,
+        "text": "The ambiance is definitely on point, and the food is creative, but I found the portions to be a bit small for the price. It's definitely more of a special occasion place than something you'd stop in for a casual bite."
+      }
+    ]
+  }
+]

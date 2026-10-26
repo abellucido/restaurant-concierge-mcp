@@ -42,8 +42,10 @@ def test_search_combines_filters_and_sorts_by_rating():
     assert [r["name"] for r in affordable_in_la["results"]] == ["Velvet Hour"]
 
 
-def test_search_with_no_matches():
-    assert call("search_restaurants", cuisine="ethiopian")["count"] == 0
+def test_search_with_no_matches_suggests_cities():
+    result = call("search_restaurants", cuisine="ethiopian")
+    assert result["count"] == 0
+    assert result["available_cities"] == ["Los Angeles", "San Diego"]
 
 
 def test_get_restaurant_handles_partial_and_misspelled_names():
